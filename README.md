@@ -1,6 +1,6 @@
 # Mini-Go-AI-Agent
 
-The project involves creating an AI agent, specifically focusing on Search, Game Playing, and Reinforcement Learning. The goal is to develop agents capable of playing a simplified version of the Go game known as Go-5x5 or Little-Go. This variant has a reduced board size of 5x5, presenting a more manageable challenge. Your AI agent will engage in games against both basic and advanced AI opponents, demonstrating its proficiency in strategic decision-making and gameplay. The project aims to showcase your understanding and application of AI concepts, emphasizing practical skills in developing intelligent agents for strategic games.
+The project involves creating an AI agent using min-max pruning on tree based algorithms, specifically focusing on Search, Game Playing, and Reinforcement Learning. The goal is to develop agents capable of playing a simplified version of the Go game known as Go-5x5 or Little-Go. This variant has a reduced board size of 5x5, presenting a more manageable challenge. Your AI agent will engage in games against both basic and advanced AI opponents, demonstrating its proficiency in strategic decision-making and gameplay. The project aims to showcase your understanding and application of AI concepts, emphasizing practical skills in developing intelligent agents for strategic games.
 
  ## Game Description
  Go is an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent. The basic concepts of Go (Little-Go) are very simple:
